@@ -16,7 +16,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "Rev1"
+      "sch_revision": "Rev2"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -437,7 +437,7 @@
         "uuid": "49f500a7-a9f9-404a-ac34-d8260565502c"
       }
     ],
-    "used_designators": "",
+    "used_designators": "C1-3,#PWR1,U1-3,Nidec_24H055M2-3",
     "variants": []
   },
   "sheets": [
